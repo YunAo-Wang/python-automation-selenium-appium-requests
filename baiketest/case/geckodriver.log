@@ -1,0 +1,30 @@
+geckodriver: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+
+1651233555666	geckodriver	INFO	Listening on 127.0.0.1:2112
+1651233558659	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2113" "-no-remote" "-profile" "C:\\Users\\王蕴奥\\AppData\\Local\\Temp\\rust_mozprofilepkWJDs"
+1651233559149	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u738B\u8574\u5965\\AppData\\Local\\Temp\\rust_mozprofilepkWJDs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:2113/devtools/browser/687df690-4aa4-4a97-a9b9-6fc6ba341990
+1651233561975	Marionette	INFO	Listening on port 2120
+1651233562377	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651233565019	Marionette	INFO	Stopped listening on port 2120
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1651233642859	geckodriver	INFO	Listening on 127.0.0.1:2270
+1651233645932	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2271" "-no-remote" "-profile" "C:\\Users\\王蕴奥\\AppData\\Local\\Temp\\rust_mozprofileyRjR6l"
+1651233646306	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u738B\u8574\u5965\\AppData\\Local\\Temp\\rust_mozprofileyRjR6l\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:2271/devtools/browser/d6f56531-2b2d-4b37-985d-6c5182251758
+1651233648394	Marionette	INFO	Listening on port 2280
+1651233648635	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2020-s.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651233650235	Marionette	INFO	Stopped listening on port 2280
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]

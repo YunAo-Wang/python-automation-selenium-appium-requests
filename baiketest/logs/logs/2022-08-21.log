@@ -1,0 +1,10 @@
+2022-08-21 21:54:40,562 login_handle.py--> send_username 20: INFO ----->输入用户名
+2022-08-21 21:54:41,686 login_handle.py--> send_pwd 20: INFO ----->输入密码
+2022-08-21 21:55:05,927 login_handle.py--> send_username 20: INFO ----->输入用户名
+2022-08-21 21:55:07,032 login_handle.py--> send_pwd 20: INFO ----->输入密码
+2022-08-21 21:58:08,520 login_handle.py--> send_username 20: INFO ----->输入用户名
+2022-08-21 21:58:09,687 login_handle.py--> send_pwd 20: INFO ----->输入密码
+2022-08-21 21:58:32,314 login_handle.py--> send_username 20: INFO ----->输入用户名
+2022-08-21 21:58:33,400 login_handle.py--> send_pwd 20: INFO ----->输入密码
+2022-08-21 21:58:56,014 login_handle.py--> send_username 20: INFO ----->输入用户名
+2022-08-21 21:58:57,089 login_handle.py--> send_pwd 20: INFO ----->输入密码
